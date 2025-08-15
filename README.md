@@ -6,6 +6,8 @@ A responsive and interactive web platform dedicated to fitness and healthy livin
     Features
 
    User Side
+
+   
 	1.	Hero Section
  
 	-	Dynamic and motivational banner with the website slogan.
